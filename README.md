@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jftvrs2005
 - 👀 I’m interested in using my brain.
-- 🌱 I’m currently learning programation.
+- 🌱 I’m currently learning coding.
 - 💞️ I’m looking to collaborate on nothing because I am still learning, but if you need an extra hand I am a fast learner.
 
 <!---
